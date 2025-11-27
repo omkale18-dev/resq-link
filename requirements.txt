@@ -1,4 +1,4 @@
- py -3.11 -m venv venv
+
 langchain-google-genai
 langchain-community
 langchain-core
@@ -8,4 +8,5 @@ duckduckgo-search
 pandas
 python-dotenv
 pydantic
+
 tabulate
