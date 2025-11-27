@@ -1,0 +1,11 @@
+ py -3.11 -m venv venv
+langchain-google-genai
+langchain-community
+langchain-core
+langgraph
+streamlit
+duckduckgo-search
+pandas
+python-dotenv
+pydantic
+tabulate
